@@ -5,7 +5,7 @@ const main=document.querySelector(".main");
 function dealy(callback){
     setTimeout(()=>{
         callback();
-    },1000)
+    },5000)
 }
 
 function fetchdata(){
