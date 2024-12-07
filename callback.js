@@ -25,7 +25,7 @@ click.addEventListener('click',function(){
 
     newsection.appendChild(bmsg);
     main.appendChild(newsection);
-    bmsg.innerHTML="Please wait wait 5 sec";
+    bmsg.innerHTML="Callback executed after 5 seconds";
     const dis=document.createElement("ul");
     bmsg.appendChild(dis);
 

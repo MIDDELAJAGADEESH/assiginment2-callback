@@ -10,6 +10,11 @@
     
 
 }
+li{
+    padding: 5px;
+    margin: 5px;
+    text-align:justify;
+}
 .display{
     overflow-y:auto;
     height: 500px;
